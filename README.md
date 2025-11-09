@@ -1,1 +1,1 @@
-# Monetary_Transmission_and_the_Phillips-_Curve_in_Japan
+# Monetary Transmission and the Phillips Curve in Japan
