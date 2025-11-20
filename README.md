@@ -28,8 +28,9 @@ This project provides an econometric and theoretical analysis of Japan’s macro
 ├── Python File/
 │   ├── 1. ipynb
 │   ├── 2. ipynb
+
 ├── Report_Writing_trial.pdf   [ A detailed report on the project ]
-├── Summary.pdf
+├── Summary.pdf                [ A short summary of the full project ]
 └── README.md
 
 ```
