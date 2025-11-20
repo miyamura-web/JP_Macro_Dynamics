@@ -18,8 +18,12 @@ This project provides an econometric and theoretical analysis of Japan’s macro
 ```
 ├── datasets/
 │   ├── 1. Unemployment Data.csv
-│   ├── 2.  csv
-│   ├── 3.  csv
+│   ├── 2. CPI Data.csv
+│   ├── 3. GDP Data.csv
+│   ├── 4. Policy Data.csv
+│   ├── 5. Consumption Data .csv
+│
+│
 ├── SQL File/
 │   ├── 1. Unemployment Data.csv
 ├── Python File/
