@@ -33,6 +33,5 @@ This project provides an econometric and theoretical analysis of Japan’s macro
 ├── Report_Writing_trial.pdf   [ A detailed report on the project ]
 ├── Summary.pdf                [ A short summary of the full project ]
 └── README.md
-
 ```
 
