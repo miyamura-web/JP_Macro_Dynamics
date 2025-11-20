@@ -24,14 +24,12 @@ This project provides an econometric and theoretical analysis of Japan’s macro
 │   ├── 5. Consumption Data .csv
 │   ├── Merged Data.csv
 ├── SQL File/
-│   ├── 1. Unemployment Data.csv
+│   ├── 1. Data Pre-processing.sql 
 ├── Python File/
 │   ├── 1. ipynb
 │   ├── 2. ipynb
-├── visuals/
-│   ├── correlation_heatmap.png
-│   ├── roc_curve.png
 ├── Report_Writing_trial.pdf   [ A detailed report on the project ]
+├── Summary.pdf
 └── README.md
 
 ```
