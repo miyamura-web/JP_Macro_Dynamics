@@ -30,8 +30,8 @@ This project provides an econometric and theoretical analysis of Japan’s macro
 │   ├── 2. Philips Curve.ipynb
 │   ├── 3. Consumption Function.ipynb
 │   ├── 4. Japan's GDP Forecasting.ipynb
-├── Report_Writing_trial.pdf   [ A detailed report on the project ]
-├── Summary.pdf                [ A short summary of the full project ]
+├── Report on Project Japan.pdf   [ A detailed report on the project ]
+├── 1. Summary.pdf                [ A short summary of the full project ]
 └── README.md
 ```
 
