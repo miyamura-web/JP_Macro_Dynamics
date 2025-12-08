@@ -74,9 +74,8 @@ This project attempts to empirically diagnose these anomalies using data-driven 
 - High-tech & green sectors
 - R&D incentives
 
-- ✔ Improve Inflation Expectations
-
-Coordinated fiscal–monetary communication
-
-Persistent policy commitment
-
+✔ Improve Inflation Expectations
+- Coordinated fiscal–monetary communication
+- Persistent policy commitment
+  
+## Key contributions 
