@@ -55,5 +55,38 @@ This project attempts to empirically diagnose these anomalies using data-driven 
 
   ARIMA(0,1,0)​
 
-​
+## 🏛️ Policy Recommendations
+- ✔ Strengthen Fiscal Policy
+
+Because consumption → income-driven (R² = 0.77), fiscal expansion has large effects.
+
+- ✔ Use Unconventional Monetary Tools
+
+Yield Curve Control
+
+Forward guidance
+
+Large-scale QE
+
+- ✔ Structural Reforms
+
+Increase female & elderly labour participation
+
+Immigration reform
+
+Productivity-enhancing investment
+
+- ✔ Long-Term Growth Strategy
+
+Digital transformation
+
+High-tech & green sectors
+
+R&D incentives
+
+- ✔ Improve Inflation Expectations
+
+Coordinated fiscal–monetary communication
+
+Persistent policy commitment
 
